@@ -1,4 +1,4 @@
-# Micheal Agunbiade | Backend Systems Engineer 🚀
+# Micheal Agunbiade | Backend Engineer
 
 Backend-focused engineer specializing in **scalable server-side architectures**, **event-driven systems**, and **fintech infrastructure**. I build production-grade systems that bridge the gap between complex logic and high-performance delivery.
 
