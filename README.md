@@ -1,85 +1,27 @@
-# Micheal Agunbiade | Backend Engineer
+# 💫 About Me:
+Micheal Agunbiade | Backend Engineer<br>Backend-focused engineer building scalable APIs and data-driven platforms using Node.js and NestJS. Focused on clean architecture, system design, and real-world backend systems.<br><br>🛠️ Core Engineering Stack<br>Runtime: Node.js, TypeScript<br>Frameworks: NestJS (Expert), Express<br>Persistence: PostgreSQL, Prisma ORM, Redis (Caching/Locks)<br>Messaging: RabbitMQ (Event-driven logic), Socket.IO (Real-time)<br>DevOps/Cloud: AWS, Docker, IndexNow API, Sentry (Observability)<br>Visual Design: Adobe Illustrator, CorelDRAW (Typographic & Branding exploration)<br>Database: PostgreSQL<br>ORM: Prisma<br>Tools: Git, REST APIs<br>🏗️ Engineering Experience<br>Built backend APIs using modular architecture (NestJS)<br>Designed systems for environmental data tracking and analytics<br>Implemented authentication, validation, and structured error handling<br>Working on integrating event-driven patterns into backend systems<br>🧠 Current Focus<br>System Design<br>Backend Architecture<br>API Security & Validation<br>Scaling backend systems<br>🔥 Featured Projects<br>🌍 EnviroTrack Research Platform<br>Backend system for aggregating and analyzing environmental air quality data.<br><br>Built with NestJS, Prisma, PostgreSQL<br>Integrates external APIs (OpenAQ)<br>Focused on scalable data processing<br>👉 Repo: https://github.com/Michealtimi/EnviroTrack-Research-Platform-<br><br>♻️ Waste Circularity Platform<br>Backend system for emissions tracking and compliance monitoring.<br><br>Modular architecture (NestJS)<br>Role-based access control<br>Structured validation & error handling<br><br>💳 Escrow Payment System<br>Marketplace payment backend exploring escrow and transaction logic.<br><br>Backend architecture for payment flows<br>Experimenting with event-driven patterns<br><br><br>📫 Connect with me<br>LinkedIn: https://www.linkedin.com/in/micheal-agunbiade-257398253/<br>Email: michealagunbiade1@gmail.com<br>Status: Open to Remote Roles 🌍<br>
 
-Backend-focused engineer building scalable APIs and data-driven platforms using Node.js and NestJS. Focused on clean architecture, system design, and real-world backend systems.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/micheal-agunbiade-257398253/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michealagunbiade1@gmail.com) 
 
-### 🛠️ Core Engineering Stack
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Michealtimi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Michealtimi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Michealtimi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-* **Runtime:** Node.js, TypeScript
-* **Frameworks:** NestJS (Expert), Express
-* **Persistence:** PostgreSQL, Prisma ORM, Redis (Caching/Locks)
-* **Messaging:** RabbitMQ (Event-driven logic), Socket.IO (Real-time)
-* **DevOps/Cloud:** AWS, Docker, IndexNow API, Sentry (Observability)
-* **Visual Design:** Adobe Illustrator, CorelDRAW (Typographic & Branding exploration)
-* **Database**: PostgreSQL
-* **ORM:** Prisma
-* **Tools**: Git, REST APIs
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Michealtimi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-## 🏗️ Engineering Experience
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-* Built backend APIs using modular architecture (NestJS)
-* Designed systems for environmental data tracking and analytics
-* Implemented authentication, validation, and structured error handling
-* Working on integrating event-driven patterns into backend systems
-
-### 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Michealtimi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Michealtimi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-##### 🧠 Current Focus
-
-* System Design
-* Backend Architecture
-* API Security & Validation
-* Scaling backend systems
-
----
-
-## 🔥 Featured Projects
-
-### 🌍 EnviroTrack Research Platform
-
-Backend system for aggregating and analyzing environmental air quality data.
-
-* Built with NestJS, Prisma, PostgreSQL
-* Integrates external APIs (OpenAQ)
-* Focused on scalable data processing
-
-👉 Repo: https://github.com/Michealtimi/EnviroTrack-Research-Platform-
-
----
-
-### ♻️ Waste Circularity Platform
-
-Backend system for emissions tracking and compliance monitoring.
-
-* Modular architecture (NestJS)
-* Role-based access control
-* Structured validation & error handling
-
-👉 Repo: (add your repo link here)
-
----
-
-### 💳 Escrow Payment System (In Progress)
-
-Marketplace payment backend exploring escrow and transaction logic.
-
-* Backend architecture for payment flows
-* Experimenting with event-driven patterns
-
-👉 Repo: (add if exists or remove)
-
----
-
-### 📫 Connect with me
-
-* LinkedIn: https://linkedin.com/in/YOUR-REAL-LINK
-* Email: [michealagunbiader1@gmail.com](mailto:michealagunbiader1@gmail.com)
-* Status: Open to Remote Roles 🌍
-
-
----
-> "Building scalable systems with clean architecture, one event at a time."
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
